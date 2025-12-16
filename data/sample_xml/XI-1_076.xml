@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="https://prometheus.statsbiblioteket.dk/gvData/xslt/registranten.xsl"?>
+<?xml-model type="application/relax-ng-compact-syntax" href="https://prometheus.statsbiblioteket.dk/gvData/rnc/registranten.rnc"?>
+
+<grundtvig>
+	<filenavn>XI-1_076</filenavn>
+	<Grundtvig-arkivet_fasc>227.</Grundtvig-arkivet_fasc>
+	<title_el_kort_indholdsangivelse>Kasseret af trykmanuskriptet til H V 1833
+&quot;Salmanassar og Senacherib&quot;.</title_el_kort_indholdsangivelse>
+	<Papirsort_farve_og_evet_vandmaerke>C &amp; I H</Papirsort_farve_og_evet_vandmaerke>
+	<Afmaerkning_I_J_N_osv>uafmærket.</Afmaerkning_I_J_N_osv>
+	<Ortografi></Ortografi>
+	<Andre_ydre_kriterier></Andre_ydre_kriterier>
+	<Indre_kriterier_allusioner_citater_m_m></Indre_kriterier_allusioner_citater_m_m>
+	<Ms_forste_linie>tere +).<!-- NHB: punktum tilføjet-->
+At sammenligne denne løse Tale med
+den tilsvarende</Ms_forste_linie>
+	<Ms_sidste_linie>da det hos dem meget
+tydelig
+(en note afslutter siden)</Ms_sidste_linie>
+	<Tryk_el_benyttelse>US VI s. 180ff.</Tryk_el_benyttelse>
+	<Tidl_forskeres_skoensmaessige_detering_er></Tidl_forskeres_skoensmaessige_detering_er>
+	<Nr_i_bibliografien>518A</Nr_i_bibliografien>
+	<Registreret_af>KT d.  10/12  1957.</Registreret_af>
+	<Evt_enhedens_nr>LIX.</Evt_enhedens_nr>
+	<Antal_sider>2; 2. halvdel 
+af upg. læg.</Antal_sider>
+	<Antal_blade>1.</Antal_blade>
+	<Format>kvart; 18 x 22 1/2.</Format>
+	<Indholdsregest>Kasseret af trykmanuskriptet til kapitlet "Salmanassar og Senacherib"
+US VI s. 180 linie 16 f.n. En halv side overstreget. Derefter påbegyndes nyt kapitel: "Nebucadnezar" - i bogen omdøbt til "Nebucadnezar og Belsazar".
+Kasseret antagelig fordi oplysningerne om Mardak skulde henflyttes til det foregående kapitels slutning.
+Affattelsestid: 1833 (første halvdel).
+	</Indholdsregest>
+	<e1></e1>
+	<e2></e2>
+	<e3></e3>
+	<e4></e4>
+	<e5></e5>
+</grundtvig>

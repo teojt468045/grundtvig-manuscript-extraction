@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="https://prometheus.statsbiblioteket.dk/gvData/xslt/registranten.xsl"?>
+<?xml-model type="application/relax-ng-compact-syntax" href="https://prometheus.statsbiblioteket.dk/gvData/rnc/registranten.rnc"?>
+
+<grundtvig>
+	<filenavn>XI-1_101</filenavn>
+	<Grundtvig-arkivet_fasc>227.</Grundtvig-arkivet_fasc>
+	<title_el_kort_indholdsangivelse>Notater fra kapitlet &quot;Tyrus og  Sidon&quot; i H V 1833.
+</title_el_kort_indholdsangivelse>
+	<Papirsort_farve_og_evet_vandmaerke>G.P.I.L.</Papirsort_farve_og_evet_vandmaerke>
+	<Afmaerkning_I_J_N_osv>uafmærket.</Afmaerkning_I_J_N_osv>
+	<Ortografi></Ortografi>
+	<Andre_ydre_kriterier></Andre_ydre_kriterier>
+	<Indre_kriterier_allusioner_citater_m_m></Indre_kriterier_allusioner_citater_m_m>
+	<Ms_forste_linie>og tog den Deel af Byen</Ms_forste_linie>
+	<Ms_sidste_linie>(et regnestykke)</Ms_sidste_linie>
+	<Tryk_el_benyttelse>US VI s. 163f.</Tryk_el_benyttelse>
+	<Tidl_forskeres_skoensmaessige_detering_er></Tidl_forskeres_skoensmaessige_detering_er>
+	<Nr_i_bibliografien>518A</Nr_i_bibliografien>
+	<Registreret_af>KT d.    9/12  1957.</Registreret_af>
+	<Evt_enhedens_nr>LXXXIII.</Evt_enhedens_nr>
+	<Antal_sider>2.</Antal_sider>
+	<Antal_blade>1/2 blad.</Antal_blade>
+	<Format>beskåret kvart; 
+12 x 21 1/2.</Format>
+	<Indholdsregest>Notater fra kildelæsning angående "Tyrus og Sidon" - skrevet på 90° dre-
+jet papir: bladet er beskåret for den mindre højre halvdel.
+Første side er benyttet US VI s. 163 (midten), og kilden er (jf. noten
+s. 163) Plutarks Alexander og Arrian II 14-24. Derefter påbegyndes notater
+fra Ourtius (IV 1.5), der fortsættes på anden side og udnyttes s, 164 (men
+kritiseres der!).
+Affattelsestid: 1833 (første halvdel).
+	</Indholdsregest>
+	<e1></e1>
+	<e2></e2>
+	<e3></e3>
+	<e4></e4>
+	<e5></e5>
+</grundtvig>

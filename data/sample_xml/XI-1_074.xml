@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="https://prometheus.statsbiblioteket.dk/gvData/xslt/registranten.xsl"?>
+<?xml-model type="application/relax-ng-compact-syntax" href="https://prometheus.statsbiblioteket.dk/gvData/rnc/registranten.rnc"?>
+
+<grundtvig>
+	<filenavn>XI-1_074</filenavn>
+	<Grundtvig-arkivet_fasc>227.</Grundtvig-arkivet_fasc>
+	<title_el_kort_indholdsangivelse>H V 1833 
+Tidligt forarbejde til H V 1833
+(Kildeoversigt)</title_el_kort_indholdsangivelse>
+	<Papirsort_farve_og_evet_vandmaerke>J.P.B. Bikube</Papirsort_farve_og_evet_vandmaerke>
+	<Afmaerkning_I_J_N_osv>uafmærket</Afmaerkning_I_J_N_osv>
+	<Ortografi></Ortografi>
+	<Andre_ydre_kriterier>Stålpen.</Andre_ydre_kriterier>
+	<Indre_kriterier_allusioner_citater_m_m></Indre_kriterier_allusioner_citater_m_m>
+	<Ms_forste_linie>I Øvrigt forholder det
+sig hermed saaledes,</Ms_forste_linie>
+	<Ms_sidste_linie>Rettelse.
+(opgivet noget oppe på sidste side)</Ms_sidste_linie>
+	<Tryk_el_benyttelse></Tryk_el_benyttelse>
+	<Tidl_forskeres_skoensmaessige_detering_er></Tidl_forskeres_skoensmaessige_detering_er>
+	<Nr_i_bibliografien>518A</Nr_i_bibliografien>
+	<Registreret_af>KT d.  4/12  1957.</Registreret_af>
+	<Evt_enhedens_nr>LVII.</Evt_enhedens_nr>
+	<Antal_sider>2; 1/2 upg. læg 
+(2. halvdel)</Antal_sider>
+	<Antal_blade>1.</Antal_blade>
+	<Format>kvart; 18 x 22 1/2.</Format>
+	<Indholdsregest>Oversigt over kilderne til de syv tidsrum, det første "førend Cyrus", det syvende: fra Konstantinopels indtagelse til den franske revolution.
+Et tidligt forsøg på at orientere læserne (af H V 1833) om kilderne.
+Måske vil han først og fremmest orientere sig selv. Forsøget er ikke senere gentaget. Papiret er Hellestrøm. Muligvis gælder den samme datering som i tilfældet LVI og IV.
+Affattelsestid: august 1832?
+	</Indholdsregest>
+	<e1></e1>
+	<e2></e2>
+	<e3></e3>
+	<e4></e4>
+	<e5></e5>
+</grundtvig>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="https://prometheus.statsbiblioteket.dk/gvData/xslt/registranten.xsl"?>
+<?xml-model type="application/relax-ng-compact-syntax" href="https://prometheus.statsbiblioteket.dk/gvData/rnc/registranten.rnc"?>
+
+<grundtvig>
+	<filenavn>XX-2_0016</filenavn>
+	<Grundtvig-arkivet_fasc>389.74.c.</Grundtvig-arkivet_fasc>
+	<title_el_kort_indholdsangivelse>Udkast til digtet <hi rend="underLine">Til min Lise</hi>. (1844)</title_el_kort_indholdsangivelse>
+	<Papirsort_farve_og_evet_vandmaerke>hvid.</Papirsort_farve_og_evet_vandmaerke>
+	<Afmaerkning_I_J_N_osv>uafmærket.</Afmaerkning_I_J_N_osv>
+	<Ortografi></Ortografi>
+	<Andre_ydre_kriterier></Andre_ydre_kriterier>
+	<Indre_kriterier_allusioner_citater_m_m></Indre_kriterier_allusioner_citater_m_m>
+	<Ms_forste_linie>(Titel, se nedenfor)
+<hi rend="underLine">Sølvbryllups-Dagen</hi>,ifjor,...</Ms_forste_linie>
+	<Ms_sidste_linie>Rødmen er liflig og Duften er sød!
+<hi rend="underLine">Frederik</hi>.</Ms_sidste_linie>
+	<Tryk_el_benyttelse>Utrykt i denne form, se nedenfor.</Tryk_el_benyttelse>
+	<Tidl_forskeres_skoensmaessige_detering_er></Tidl_forskeres_skoensmaessige_detering_er>
+	<Nr_i_bibliografien>786.</Nr_i_bibliografien>
+	<Registreret_af>SJ d.  /  1955.</Registreret_af>
+	<Evt_enhedens_nr>74.c.</Evt_enhedens_nr>
+	<Antal_sider>2.</Antal_sider>
+	<Antal_blade>1.</Antal_blade>
+	<Format>kvart.</Format>
+	<Indholdsregest><p>Teksten i dette kvartblad (B) har talrige rettelser. Udgør udkastet umiddelbart før renskriftens stadium.</p>
+		<p>Titlen her lyder:
+<lg><l><hi rend="underLine">Til min Lise</hi></l>
+<l>(paa Bryllups-Dagen 1844),</l></lg>
+altså ganske som i A.</p>
+		<p>Alle 3 mss. skrevet til 12. august 1844.</p>
+	</Indholdsregest>
+	<e1></e1>
+	<e2></e2>
+	<e3></e3>
+	<e4></e4>
+	<e5></e5>
+</grundtvig>

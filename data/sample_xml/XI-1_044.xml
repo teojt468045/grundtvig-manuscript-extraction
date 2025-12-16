@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="https://prometheus.statsbiblioteket.dk/gvData/xslt/registranten.xsl"?>
+<?xml-model type="application/relax-ng-compact-syntax" href="https://prometheus.statsbiblioteket.dk/gvData/rnc/registranten.rnc"?>
+
+<grundtvig>
+	<filenavn>XI-1_044</filenavn>
+	<Grundtvig-arkivet_fasc>227.</Grundtvig-arkivet_fasc>
+	<title_el_kort_indholdsangivelse>Kasseret af trykmanuskriptet til H V 1833
+&quot;Grækerne&quot;</title_el_kort_indholdsangivelse>
+	<Papirsort_farve_og_evet_vandmaerke>C &amp; I H</Papirsort_farve_og_evet_vandmaerke>
+	<Afmaerkning_I_J_N_osv>uafmærket.</Afmaerkning_I_J_N_osv>
+	<Ortografi></Ortografi>
+	<Andre_ydre_kriterier></Andre_ydre_kriterier>
+	<Indre_kriterier_allusioner_citater_m_m></Indre_kriterier_allusioner_citater_m_m>
+	<Ms_forste_linie>de [overstreget: selv vidste det] tænkde derpaa og at sætte Kræfter...i Virksomhed... .</Ms_forste_linie>
+	<Ms_sidste_linie>og Thrakien (Romanien). (opgivet midt på sidste side)</Ms_sidste_linie>
+	<Tryk_el_benyttelse>US VI s. 260.</Tryk_el_benyttelse>
+	<Tidl_forskeres_skoensmaessige_detering_er></Tidl_forskeres_skoensmaessige_detering_er>
+	<Nr_i_bibliografien>518A</Nr_i_bibliografien>
+	<Registreret_af>KT d.  14/12  1957.</Registreret_af>
+	<Evt_enhedens_nr>XXVII.</Evt_enhedens_nr>
+	<Antal_sider>2; 1/2 upg. læg.</Antal_sider>
+	<Antal_blade>1.</Antal_blade>
+	<Format>kvart; 18 x 22 1/2.</Format>
+	<Indholdsregest>Kasseret under udarbejdelsen af fase. 227.LXVI, der kasseredes som forarbejde til kapitlet "Grækerne". Udgør den første fortsættelse af 1. blad.
+Den græske halvø "indtræder i Old-Tidens Historie" - jf. US VI s. 260 linie 5f.
+Affattelsestid: 1833 (første halvdel).
+	</Indholdsregest>
+	<e1></e1>
+	<e2></e2>
+	<e3></e3>
+	<e4></e4>
+	<e5></e5>
+</grundtvig>

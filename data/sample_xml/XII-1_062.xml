@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="https://prometheus.statsbiblioteket.dk/gvData/xslt/registranten.xsl"?>
+<?xml-model type="application/relax-ng-compact-syntax" href="https://prometheus.statsbiblioteket.dk/gvData/rnc/registranten.rnc"?>
+
+<grundtvig>
+	<filenavn>XII-1_062</filenavn>
+	<Grundtvig-arkivet_fasc>229.</Grundtvig-arkivet_fasc>
+	<title_el_kort_indholdsangivelse>                                                H V III
+Kasseret af trykmanuskriptet til &quot;Det Sextende
+Aarhundrede&quot;</title_el_kort_indholdsangivelse>
+	<Papirsort_farve_og_evet_vandmaerke>Maskinpapir- hvidligt.</Papirsort_farve_og_evet_vandmaerke>
+	<Afmaerkning_I_J_N_osv>Bølgestreg.</Afmaerkning_I_J_N_osv>
+	<Ortografi></Ortografi>
+	<Andre_ydre_kriterier></Andre_ydre_kriterier>
+	<Indre_kriterier_allusioner_citater_m_m></Indre_kriterier_allusioner_citater_m_m>
+	<Ms_forste_linie>en ny Religjon, hvis
+Dyder og Lyder bliver</Ms_forste_linie>
+	<Ms_sidste_linie>saasnart de forsvandt,
+(opgivet sidste side)</Ms_sidste_linie>
+	<Tryk_el_benyttelse>US VII s. 592-594.</Tryk_el_benyttelse>
+	<Tidl_forskeres_skoensmaessige_detering_er></Tidl_forskeres_skoensmaessige_detering_er>
+	<Nr_i_bibliografien>518A</Nr_i_bibliografien>
+	<Registreret_af>Th d.  21/8   1958.</Registreret_af>
+	<Evt_enhedens_nr>XLII.</Evt_enhedens_nr>
+	<Antal_sider>4; 1 upg. læg.</Antal_sider>
+	<Antal_blade>2.</Antal_blade>
+	<Format>kvart; 18 x 22.</Format>
+	<Indholdsregest>Kasseret af trykmanuskriptet til kapitlet "Det Sextende Aarhundrede"
+US VII s. 592 efter 2. afsnit. Udnyttet til s. 594 øverst (Calvin).
+Affattelsestid: sommeren 1842 (se LXIII).
+	</Indholdsregest>
+	<e1></e1>
+	<e2></e2>
+	<e3></e3>
+	<e4></e4>
+	<e5></e5>
+</grundtvig>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="https://prometheus.statsbiblioteket.dk/gvData/xslt/registranten.xsl"?>
+<?xml-model type="application/relax-ng-compact-syntax" href="https://prometheus.statsbiblioteket.dk/gvData/rnc/registranten.rnc"?>
+
+<grundtvig>
+	<filenavn>XII-1_077</filenavn>
+	<Grundtvig-arkivet_fasc>229.</Grundtvig-arkivet_fasc>
+	<title_el_kort_indholdsangivelse>                                                H V III
+&quot;Karl den Femtes Tid
+med
+Karl, Luther og Soliman&quot;.</title_el_kort_indholdsangivelse>
+	<Papirsort_farve_og_evet_vandmaerke>Maskinpapir- hvidligt.</Papirsort_farve_og_evet_vandmaerke>
+	<Afmaerkning_I_J_N_osv>Bølgestreg.</Afmaerkning_I_J_N_osv>
+	<Ortografi></Ortografi>
+	<Andre_ydre_kriterier></Andre_ydre_kriterier>
+	<Indre_kriterier_allusioner_citater_m_m></Indre_kriterier_allusioner_citater_m_m>
+	<Ms_forste_linie>Overskriften.</Ms_forste_linie>
+	<Ms_sidste_linie>Lande, skiøndt Prote-
+stanterne, desværre, med
+(sidste side nedskrevet)</Ms_sidste_linie>
+	<Tryk_el_benyttelse>US VII s. 532ff.</Tryk_el_benyttelse>
+	<Tidl_forskeres_skoensmaessige_detering_er></Tidl_forskeres_skoensmaessige_detering_er>
+	<Nr_i_bibliografien>518A</Nr_i_bibliografien>
+	<Registreret_af>Th d.  21/8   1958.</Registreret_af>
+	<Evt_enhedens_nr>LIV.</Evt_enhedens_nr>
+	<Antal_sider>2; 1/2 upg. læg.</Antal_sider>
+	<Antal_blade>1.</Antal_blade>
+	<Format>kvart; 18 x 22.</Format>
+	<Indholdsregest>Den tyrkiske statsret er en trusel mod det borgerlige selskab. -
+Dette motiv nærmer LIV til den endelige udformning af kapitlet "Det
+Sextende Aarhundrede" og begrunder, at LIV + fortsættelsen XL kan regnes
+for det sidste udkast af de tre, der har samme overskrift -se rubr. 1.
+Overskriften i L er let ændret og placerer derfor L efter LI, LII og LIV.
+Fortsættes: XL. Med dettes 4. udkast til "Det Sextende Aarhundrede".
+Affattelsestid: 1842 (se XC).
+	</Indholdsregest>
+	<e1></e1>
+	<e2></e2>
+	<e3></e3>
+	<e4></e4>
+	<e5></e5>
+</grundtvig>
