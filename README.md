@@ -2,7 +2,7 @@
 
 This repository documents the computational workflow used in the article  
 “Reconstituting the Literary Archive: Digitization, Metadata, and Computational Approaches in the Grundtvig Archive”  
-(forthcoming in *Variants*).
+(under review in *Variants*).
 
 The purpose of the repository is to ensure transparency, reproducibility, and methodological accountability for the XML-based analyses presented in the article.
 
@@ -74,13 +74,16 @@ lxml
 numpy
 openpyxl
 matplotlib
+```
 
 ---
 
 ## Execution
 
+```bash
 pip install -r requirements.txt
 jupyter notebook notebooks/datering_registranten_sidetal_FINAL.ipynb
+```
 
 ---
 
@@ -90,5 +93,6 @@ If you refer to this repository, please cite the associated article.
 A persistent identifier will be added upon publication.
 
 ---
+
 
 
