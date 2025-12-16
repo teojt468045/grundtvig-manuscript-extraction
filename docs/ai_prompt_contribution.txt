@@ -1,0 +1,41 @@
+Prompt-Driven Script Development and Human-in-the-Loop Contributions
+
+This document describes how prompt-driven interaction with a generative AI system (ChatGPT) contributed to the development of the rule-based Python workflow used in this project. The purpose of the description is to document the technical role of prompts in shaping the implementation of the scripts, not to attribute interpretive or analytical agency to the AI system. All methodological decisions, validations, and interpretations remained the responsibility of the researcher throughout.
+
+Prompts functioned as explicit specifications of desired behaviour, constraints, and edge cases within a Human-in-the-Loop (HITL) workflow. The AI system served as a technical assistant for proposing code-level solutions, which were subsequently reviewed, adapted, and validated against the archival material.
+
+1. Defining extraction objectives
+
+Early prompts articulated the overall technical objectives of the workflow: extracting dating information, physical extent (pages or leaves), bibliographic numbers, and fascicle identifiers from heterogeneous XML catalogue records in the Registranten archive. These prompts translated archival and philological requirements into operational constraints that guided the initial structure of the script.
+
+At this stage, prompts clarified which XML fields should be prioritised for specific tasks (e.g. dating extraction from descriptive fields rather than metadata headers) and established the chronological boundaries of the analysis (1798–1872). The resulting code proposals were evaluated against known catalogue structures and adjusted where necessary.
+
+2. Handling variation in numeric encoding
+
+Subsequent prompts addressed the substantial variation in how numerical information is recorded in the XML files. These included explicit integers, numeric ranges, mixed prose and numeric descriptions, and cases where both page and leaf counts were present.
+
+Prompt-driven exploration of these cases led to the implementation of conservative parsing rules that prioritise the first valid numeric token and interpret explicitly marked ranges while ignoring ambiguous prose. The logic for converting leaf counts to page counts (2:1) was introduced through this iterative process and flagged in the output to preserve transparency.
+
+3. Addressing structural and semantic edge cases
+
+Further prompts were used to identify and resolve edge cases arising from the internal structure of the XML documents. These included embedded markup, missing or empty fields, multiple catalogue entries recorded within a single descriptive field, and inconsistent use of field labels across fascicles.
+
+The resulting code modifications improved robustness by introducing fallback logic, conditional checks, and logging mechanisms. All such changes were validated by inspecting both individual XML files and aggregated outputs.
+
+4. Expanding metadata extraction
+
+As the workflow matured, prompts specified additional metadata requirements, including bibliographic identifiers and fascicle numbers. These prompts resulted in extensions to the script that map fascicle identifiers onto a predefined set of fourteen analytical categories used throughout the study.
+
+This phase illustrates how prompts functioned as a means of translating evolving analytical needs into concrete implementation steps, while preserving consistency with the archival classification system.
+
+5. Refining output structure and reproducibility
+
+Later prompts focused on output formatting, error handling, and reproducibility. These included specifications for structured Excel output, consistent column alignment, explicit marking of inferred values, and deterministic execution.
+
+Prompt-driven refinements at this stage improved the transparency and inspectability of the workflow without altering its underlying methodological assumptions.
+
+Summary
+
+Across all stages, prompt-driven interaction supported the technical articulation of rules, constraints, and fallback logic within a deterministic extraction pipeline. Prompts did not introduce interpretive claims, analytical conclusions, or domain knowledge; instead, they served to formalise researcher-defined requirements into executable code.
+
+The workflow thus exemplifies a Human-in-the-Loop approach in which generative AI assisted with technical problem-solving while all methodological decisions, validations, and interpretations remained under explicit human control.
