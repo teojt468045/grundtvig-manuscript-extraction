@@ -73,14 +73,16 @@ pandas
 lxml
 numpy
 openpyxl
-matplotlib```
+matplotlib
 
 ---
 
+```markdown
 ## Execution
 
-```pip install -r requirements.txt
-jupyter notebook notebooks/datering_registranten_sidetal_FINAL.ipynb```
+```bash
+pip install -r requirements.txt
+jupyter notebook notebooks/datering_registranten_sidetal_FINAL.ipynb
 
 ---
 
@@ -90,3 +92,4 @@ If you refer to this repository, please cite the associated article.
 A persistent identifier will be added upon publication.
 
 ---
+
