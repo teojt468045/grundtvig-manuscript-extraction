@@ -31,7 +31,7 @@ The extracted metadata is aggregated into a structured dataset and used to gener
   The complete *Registranten* corpus, consisting of approximately 5,000 XML files, is not redistributed here for practical reasons related to size and repository manageability; however, it may be made available upon request: [tafdrup@cas.au.dk](mailto:tafdrup@cas.au.dk)
 
 
-- `data/grundtvig_datering_FINAL.xlsx`  
+- `data/grundtvig_datering_alle_biblio_WITH_FASC_INTERVAL.xlsx`  
   The structured dataset produced by the notebook and used for analysis and visualisation.
 
 - `figures/`  
