@@ -1,10 +1,10 @@
 # Grundtvig Manuscript Metadata Extraction
 
-This repository documents the computational workflow used in the article  
-“Reconstituting the Literary Archive: Digitization, Metadata, and Computational Approaches in the Grundtvig Archive”  
-(under review in *Variants*).
+This repository accompanies the article “Reconstituting the Literary Archive: Digitization, Metadata, and Computational Approaches in the Grundtvig Archive” and documents the rule-based computational workflow discussed there. It contains the scripts, sample data, figures, and methodological documentation used to extract and aggregate dating information, physical extent, and bibliographic metadata from the XML records of the Registranten catalogue.
 
-The purpose of the repository is to ensure transparency, reproducibility, and methodological accountability for the XML-based analyses presented in the article.
+The workflow is intentionally simple, deterministic, and exploratory in character. It operationalises interpretive decisions rooted in historical cataloguing practices and archival description, rather than applying machine-learning or statistical modelling techniques. All analyses are fully reproducible for researchers with access to the underlying XML corpus; representative sample data are included for inspection and testing.
+
+Generative AI tools (ChatGPT, GPT-4o) were used selectively during the development of scripts as coding assistance. All AI-assisted suggestions were reviewed, tested, and validated by the authors under a Human-in-the-Loop model. No analytical results or interpretive claims were generated automatically.
 
 ---
 
