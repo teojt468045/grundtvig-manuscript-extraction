@@ -28,7 +28,8 @@ The extracted metadata is aggregated into a structured dataset and used to gener
 
 - `data/sample_xml/`  
   Provides a representative XML example illustrating the structure and content of the source material.  
-  The complete *Registranten* corpus, consisting of approximately 5,000 XML files, is not redistributed here for practical reasons related to size and repository manageability.
+  The complete *Registranten* corpus, consisting of approximately 5,000 XML files, is not redistributed here for practical reasons related to size and repository manageability; however, it may be made available upon request: [tafdrup@cas.au.dk](mailto:tafdrup@cas.au.dk)
+
 
 - `data/grundtvig_datering_FINAL.xlsx`  
   The structured dataset produced by the notebook and used for analysis and visualisation.
@@ -50,7 +51,7 @@ The extracted metadata is aggregated into a structured dataset and used to gener
 The extraction pipeline is rule-based and deterministic.
 It does not rely on machine learning or stochastic processes.
 
-Generative AI (ChatGPT) was used selectively as a coding assistant during script development.
+Generative AI (ChatGPT, GPT-4o) was used selectively as a coding assistant during script development.
 All AI-generated suggestions were reviewed, adapted, and validated by the authors of the study.
 The workflow therefore follows a **Human-in-the-Loop (HITL)** model, with full scholarly responsibility retained by the researchers.
 
